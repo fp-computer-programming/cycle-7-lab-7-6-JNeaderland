@@ -1,3 +1,4 @@
+#Author: Jacob Neaderland
 def numsum (n1, n2):
     global tot
     tot = n1 + n2
